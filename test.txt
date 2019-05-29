@@ -1,4 +1,4 @@
  this is a test.txt
  hello world
 I love you ruoxi
-ruoxi
+ruoxi& yangmi ,I both love 
